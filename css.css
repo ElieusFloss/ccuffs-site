@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+    font-size: 100%;
+}
+body{
+    background-image: url("imagens/Background.jpg");
+    position: fixed; 
+    text-align: center;
+
+}
+.minhafoto img{
+    position: fixed;
+    right: 40%;
+    top: 25%;
+    border-radius: 100%;
+}
+.texto{
+    color: aliceblue;
+}
